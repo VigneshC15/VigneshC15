@@ -7,7 +7,7 @@ Vignesh</a></h1>
 
 - 🔭 I’m currently working in <a href="https://www.macroglobal.co.uk/" target="blank">Macro Technology Solutions</a>
 
-- 🌱 I’m currently Working on .Net Applications
+- 🌱 I’m currently working with Microsoft Technologies
 
 - 📝 Know more on [https://dev.to/vigneshc15](https://dev.to/vigneshc15)
 
