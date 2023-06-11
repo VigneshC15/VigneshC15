@@ -5,21 +5,14 @@ Vignesh</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🔭 I’m currently working in <a href="https://www.macroglobal.co.uk/" target="blank">Macro Technology Solutions</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I’m currently Working on .Net Applications
 
-- 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/" target="blank">100DaysOfSwift</a>
-
-- 📝 I regularly write articles on [https://dev.to/vigneshc15](https://dev.to/vigneshc15)
-
-- 💬 Ask me about **Reactjs & React-Native**
+- 📝 Know more on [https://dev.to/vigneshc15](https://dev.to/vigneshc15)
 
 - 📫 How to reach me **vigneshc1593@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/Me.io/blob/master/.pdf" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
